@@ -1,7 +1,7 @@
 # Spotify Analytics Dashboard
 
 ## Dashboard Preview
-![Dashboard](dashboard screenshot.png)
+Screenshot 2026-02-20 173539.png
 
 ## Tools Used
 - Power BI
@@ -9,3 +9,9 @@
 
 ## Description
 Interactive dashboard analyzing Spotify tracks, genres, and artists.
+
+## Features
+- KPI metrics for tracks, artists, and popularity
+- Genre and artist analysis
+- Interactive filters
+- Spotify-themed dashboard
