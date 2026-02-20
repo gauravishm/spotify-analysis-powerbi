@@ -1,7 +1,7 @@
 # Spotify Analytics Dashboard
 
 ## Dashboard Preview
-![Dashboard]Screenshot 2026-02-20 173539.png
+![Dashboard](Screenshot 2026-02-20 173539.png)
 
 ## Tools Used
 - Power BI
